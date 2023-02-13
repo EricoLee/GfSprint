@@ -1,2 +1,2 @@
-# GfSprint_1
+# Sprint_1
 Apenas um projeto do SPTech
