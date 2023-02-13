@@ -1,2 +1,2 @@
-# GfSprint 1
-apenas um projeto do SPTech
+# GfSprint_1
+Apenas um projeto do SPTech
